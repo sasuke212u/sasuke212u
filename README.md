@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OzShalem  
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently studying computer science
 - 📫 How to reach me - https://www.linkedin.com/in/oz-shalem
 
 <!---
